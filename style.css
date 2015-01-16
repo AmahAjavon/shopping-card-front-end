@@ -1,0 +1,228 @@
+body {
+    background-image:url("img/bg.png");
+    background-repeat: no-repeat;
+    left: 0px;
+    top: 0px;
+    width: 1080px;
+    height: 644px;
+    z-index: 1;
+
+}
+
+
+#freshkiwi {
+  background-image:url('img/fk.png');
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 720px;
+  top: 90px;
+  width: 1080px;
+  height: 644px;
+  z-index: 64;
+}
+
+.text3 {
+  font-size: 22px;
+  font-family: "Helvetica Neue";
+  color: rgb( 255, 255, 255 );
+  line-height: 1.136;
+  text-shadow: 1px 1.732px 1px rgb( 0, 0, 0 );
+  position: absolute;
+  left: 0px;
+  top: -35px;
+  z-index: 63;
+}
+
+#sum3 {
+   position: absolute;
+   left: -140px;
+   top: 20px;
+   width: 1080px;
+   height: 644px;
+   color: rgb( 76, 153, 0 );
+}
+
+.total3 {
+  position: absolute;
+  left: 160px;
+  top: 280px;
+  width: 1080px;
+  height: 644px;
+  z-index: 57;
+}
+
+.price3 {
+  font-size: 28px;
+  font-family: "Helvetica Neue";
+  color: rgb( 83, 83, 83 );
+  line-height: 1.042;
+  position: absolute;
+  left: 23px;
+  top: 265px;
+  z-index: 50;
+}
+
+#button3 {
+  background-image:url("img/addtocart.png");
+  background-repeat: no-repeat;
+  position: absolute;
+  left: -141px;
+  top: 55px;
+  width: 282px;
+  height: 49px;
+  z-index: 62;
+}
+
+#amount3 {
+  font-size: 28px;
+  left: 900px;
+  top: 350px;
+  width: 80px;
+  height: 40px;
+}
+
+
+#raspberries {
+  background-image:url('img/ra.png');
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 380px;
+  top: 90px;
+  width: 1080px;
+  height: 644px;
+  z-index: 43;
+}
+
+.text2 {
+  font-size: 22px;
+  font-family: "Helvetica Neue";
+  color: rgb( 255, 255, 255 );
+  line-height: 1.136;
+  text-shadow: 1px 1.732px 1px rgb( 0, 0, 0 );
+  position: absolute;
+  left: 0px;
+  top: -35px;
+  z-index: 42;
+}
+
+#sum2 {
+   position: absolute;
+   left: -140px;
+   top: 20px;
+   width: 1080px;
+   height: 644px;
+   color: rgb( 76, 153, 0 );
+}
+
+
+.total2 {
+  position: absolute;
+  left: 160px;
+  top: 280px;
+  width: 1080px;
+  height: 644px;
+  z-index: 36;
+}
+
+.price2 {
+  font-size: 28px;
+  font-family: "Helvetica Neue";
+  color: rgb( 83, 83, 83 );
+  line-height: 0.792;
+  position: absolute;
+  left: 23px;
+  top: 265px; 
+  z-index: 29;
+}
+
+#button2 {
+  background-image:url("img/addtocart.png");
+  background-repeat: no-repeat;
+  position: absolute;
+  left: -141px;
+  top: 55px;
+  width: 282px;
+  height: 49px;
+  z-index: 62;
+}
+
+#amount2 {
+  font-size: 28px;
+  left: 900px;
+  top: 350px;
+  width: 80px;
+  height: 40px;
+}
+
+
+#assortedVegetables {
+  background-image:url('img/av.png');
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 40px;
+  top: 90px;
+  width: 1080px;
+  height: 644px;
+  z-index: 22;
+}
+
+.text1 {
+  font-size: 22px;
+  font-family: "Helvetica Neue";
+  color: rgb( 255, 255, 255 );
+  line-height: 1.136;
+  text-shadow: 1px 1.732px 1px rgb( 0, 0, 0 );
+  position: absolute;
+  left: 0px;
+  top: -35px;
+  z-index: 21;
+}
+
+#sum1 {
+   position: absolute;
+   left: -140px;
+   top: 20px;
+   width: 1080px;
+   height: 644px;
+   color: rgb( 76, 153, 0 );
+}
+
+.total1 {
+  position: absolute;
+  left: 160px;
+  top: 280px;
+  width: 1080px;
+  height: 644px;
+  z-index: 15;
+}
+
+.price1 {
+  font-size: 28px;
+  font-family: "Helvetica Neue";
+  color: rgb( 83, 83, 83 );
+  line-height: 0.893;
+  position: absolute;
+  left: 23px;
+  top: 265px;
+  z-index: 8;
+}
+
+#button1 {
+  background-image:url("img/addtocart.png");
+  background-repeat: no-repeat;
+  position: absolute;
+  left: -141px;
+  top: 55px;
+  width: 282px;
+  height: 49px;
+  z-index: 62;
+}
+
+#amount1 {
+  font-size: 28px;
+  left: 900px;
+  top: 350px;
+  width: 80px;
+  height: 40px;
+}
+
